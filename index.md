@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Arquitetura de Software
 
-You can use the [editor on GitHub](https://github.com/brunomergh/ArquiteturaDeSoftware/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Fala galera, o assunto da postagem de hoje é Arquitetura de Software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdP80jLCtz6tG7iIvDEf54NligvAYGaNvYHRqRdGcICvUyolC)
 
-### Markdown
+Arquitetura é a técnica de organizar espaços e criar ambientes para abrigar os diversos tipos de atividades. No mundo dos softwares esse termo arquitetura tende em ser uma técnica de organizar/estruturar o projeto, seja visando o código, como por exemplo o modo como iremos dividir a front-end do back-end, se um sistema é totalmente desktop e um dia eu pretendo muda-lo para web, o quão trabalhoso será? São diversas perguntas que precisam ser respondidas antes de criar o software.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Segundo o livro de qualidade de software, citado neste [Link](http://www.devmedia.com.br/arquitetura-de-software-desenvolvimento-orientado-para-arquitetura/8033), antigamente, os projetos de sistemas alocavam pequena parcela ao software. Os componentes de hardware, por outro lado, eram analisados e testados quase exaustivamente. Com o crescimento dos softwares e visto que cada vez mais era possível reaproveitar e fazer manutenções, foi causando inumeros problemas e retrabalhos durante os anos, foi aí que se teve a ideia de arquiteturar os softwares antes da construção, tudo isso para prover um sistema com desempenho, portabilidade, confiabilidade, disponibilidade, entre outros. 
 
-```markdown
-Syntax highlighted code block
+Se fizermos uma comparação entre arquitetura de software (caracterizada, por exemplo, pelo estilo em camadas) e arquitetura ‘clássica’ (relativa à construção de edificações), podemos observar que o projeto arquitetural é determinante para o sucesso do sistema.
 
-# Header 1
-## Header 2
-### Header 3
+Diversos benefícios decorrem da incorporação da arquitetura de software, como por exemplo:
 
-- Bulleted
-- List
+·       Prover suporte ao reuso
 
-1. Numbered
-2. List
+·       Servir de base à estimação de custos e gerência do projeto
 
-**Bold** and _Italic_ and `Code` text
+·       Servir de base para análise da consistência e dependência
 
-[Link](url) and ![Image](src)
-```
+·       Ser utilizada para determinar atributos de qualidade do sistema
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+·       Atuar como uma estrutura para atender os requisitos do sistema
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brunomergh/ArquiteturaDeSoftware/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Resumindo, isso tudo para prover economia e reuso.

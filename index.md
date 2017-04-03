@@ -23,3 +23,11 @@ Diversos benefícios decorrem da incorporação da arquitetura de software, como
 ·       Atuar como uma estrutura para atender os requisitos do sistema
 
 Resumindo, isso tudo para prover economia e reuso.
+
+Ao falarmos de economia e reuso, precisamos citar a Arquitetura Orientada a Serviços(SOA).
+
+## Arquitetura Orientada a Serviços (SOA)
+
+É uma arquitetura que promove a integração do negócio com a tecnologia da informação com componentes de serviços, esse componente é o principal item dessa arquitetura. Os resultados que SOA traz são: agilidade para atender as novas demandas, flexibilidade nas mudanças, redução de custo e reuso de serviços. (SILVA, 2012).
+
+SOA é um conceito de arquitetura que traz maiores prioridades de inovação. Dizer que uma empresa precisa inovar seu negócio, é a mesma coisa em dizer que é preciso mudar, não existe uma inovação sem mudança, é essa arquitetura facilita as mudanças. Tem várias outras funcionalidades porém ainda não consegui entender.
